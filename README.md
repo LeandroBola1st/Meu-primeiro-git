@@ -1,2 +1,1 @@
-# Meu-primeiro-git
-Só aprendendo
+# APRENDENDO GIT
